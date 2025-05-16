@@ -1,6 +1,6 @@
 <!-- Floating Astronaut Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Astronaut coding" width="450"/>
+  <img src="https://i.imgur.com/zT0Z5Zq.gif" alt="Jay Dhurve Banner" width="800" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Jay Dhurve</h1>
