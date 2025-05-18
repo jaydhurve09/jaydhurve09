@@ -24,20 +24,22 @@
 
 ### ⚙️ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,cs" /><br><br>
+<div align="center">
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,postgres" /><br><br>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,cs" /><br><br>
 
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=github,vercel,aws,linux" /><br><br>
+<!-- Frameworks & Libraries -->
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,postgres" /><br><br>
 
-  <!-- Security -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/>
-</p>
+<!-- DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=github,vercel,aws,linux" /><br><br>
+
+<!-- Security (Manually styled badges) -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -50,10 +52,10 @@
 
 ---
 
-### 📈 Activity Graph
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaydhurve09&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydhurve09&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
