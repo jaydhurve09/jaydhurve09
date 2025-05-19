@@ -71,7 +71,7 @@
 ### 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaydhurve09/jaydhurve09/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/jaydhurve09/jaydhurve09/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
