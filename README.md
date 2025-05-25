@@ -6,6 +6,10 @@
 <h1 align="center">Hi there 👋, I'm Jay Dhurve</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaydhurve09&label=Profile%20views&color=0e75b6&style=flat" alt="jaydhurve09" />
+</p>
+
+<p align="center">
   <strong>Web Developer | Cyber Security Enthusiast | Tech Learner</strong><br>
   <em>Blending creativity with code to build meaningful tech experiences.</em>
 </p>
