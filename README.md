@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Full+Stack+Learner;Love+for+Tech+%26+Art" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">Hi there 👋, I'm Jay Dhurve</h1>
+<h1 align="center">Hi there 👋, I'm Jay</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaydhurve09&label=Profile%20views&color=0e75b6&style=flat" alt="jaydhurve09" />
