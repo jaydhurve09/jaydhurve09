@@ -14,6 +14,25 @@
 </p>
 
 ---
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project1&theme=radical" />
+</a>
+<a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project2&theme=radical" />
+</a><br>
+<a href="https://github.com/jaydhurve09/Pong-Game" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project3&theme=radical" />
+</a>
+<a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project4&theme=radical" />
+</a>
+
+</div>
+---
 
 ### 👨‍💻 About Me
 
