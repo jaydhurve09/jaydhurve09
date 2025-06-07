@@ -18,24 +18,25 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank"><strong>Realtime Chat App</strong></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank"><strong>Job Application App</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jaydhurve09/Pong-Game" target="_blank"><strong>Pong Game</strong></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank"><strong>To-do List App</strong></a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <div align="center">
+    <a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank"><strong>Realtime Chat App</strong></a>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank"><strong>Job Application App</strong></a>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/jaydhurve09/Pong-Game" target="_blank"><strong>Pong Game</strong></a>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank"><strong>To-do List App</strong></a>
+  </div>
+
+</div>
 
 </div>
 ---
