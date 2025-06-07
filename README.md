@@ -18,18 +18,24 @@
 
 <div align="center">
 
-<a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project2&theme=radical" />
-</a><br>
-<a href="https://github.com/jaydhurve09/Pong-Game" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project3&theme=radical" />
-</a>
-<a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=project4&theme=radical" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank"><strong>Realtime Chat App</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank"><strong>Job Application App</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jaydhurve09/Pong-Game" target="_blank"><strong>Pong Game</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank"><strong>To-do List App</strong></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 ---
