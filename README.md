@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=Job-Application-using-Java-Spring-Boot&theme=radical" />
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Second row -->
   <a href="https://github.com/jaydhurve09/Pong-Game" target="_blank">
