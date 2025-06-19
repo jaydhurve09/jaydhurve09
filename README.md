@@ -42,39 +42,9 @@
 ### 👨‍💻 About Me
 
 - 🎯 Passionate about **Web Development** and **Cyber Security**
-- 📚 Currently learning **Full Stack Development**, **Cyber Security**, and **Data Analytics**
+- 📚 Currently learning **Full Stack Development**
 - ✏️ Love creating tech + art projects that solve real problems
 - 📫 Reach me on [X / Twitter](https://x.com/jaydhurve09) or **jay09.contact@gmail.com**
-- 😄 Pronouns: He/Him
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,cs" /><br><br>
-
-<!-- Frameworks & Libraries -->
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,postgres" /><br><br>
-
-<!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=github,vercel,aws,linux" /><br><br>
-
-<!-- Security (Manually styled badges) -->
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaydhurve09&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
